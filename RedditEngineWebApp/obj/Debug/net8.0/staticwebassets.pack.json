@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RedditEngineWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RedditEngineWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RedditEngineWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RedditEngineWebApp.props",
+      "PackagePath": "build\\RedditEngineWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RedditEngineWebApp.props",
+      "PackagePath": "buildMultiTargeting\\RedditEngineWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RedditEngineWebApp.props",
+      "PackagePath": "buildTransitive\\RedditEngineWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

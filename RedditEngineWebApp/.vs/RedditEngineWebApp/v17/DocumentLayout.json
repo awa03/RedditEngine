@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1E096-DB31-49F1-94EB-8D4D7CA45E78}|..\\RedditEngineApp\\RedditEngineApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditengineapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1E096-DB31-49F1-94EB-8D4D7CA45E78}|..\\RedditEngineApp\\RedditEngineApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditengineapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1E096-DB31-49F1-94EB-8D4D7CA45E78}|..\\RedditEngineApp\\RedditEngineApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditengineapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1E096-DB31-49F1-94EB-8D4D7CA45E78}|..\\RedditEngineApp\\RedditEngineApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditengineapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1E096-DB31-49F1-94EB-8D4D7CA45E78}|..\\RedditEngineApp\\RedditEngineApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditengineapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1E096-DB31-49F1-94EB-8D4D7CA45E78}|..\\RedditEngineApp\\RedditEngineApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditengineapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1E096-DB31-49F1-94EB-8D4D7CA45E78}|..\\RedditEngineApp\\RedditEngineApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditengineapp\\redditengineapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B7E2B2-1E76-464E-B054-52579A1F8F1E}|..\\Reddit.Library\\Reddit.Library.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\reddit.library\\searchfunctions\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|c:\\users\\43763\\onedrive\\desktop\\redditengine\\redditenginewebapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{863EEBDE-8BD1-4643-8266-B394AE0E9DF6}|RedditEngineWebApp.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\RedditEngineApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "..\\RedditEngineApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:26:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "..\\RedditEngineApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\MainPage.xaml",
+              "RelativeToolTip": "..\\RedditEngineApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T21:19:47.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "..\\RedditEngineApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\MauiProgram.cs",
+              "RelativeToolTip": "..\\RedditEngineApp\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:45:29.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "..\\RedditEngineApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\AppShell.xaml",
+              "RelativeToolTip": "..\\RedditEngineApp\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T21:20:41.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\RedditEngineApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\RedditEngineApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T21:20:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedditEngineApp",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\RedditEngineApp.csproj",
+              "RelativeDocumentMoniker": "..\\RedditEngineApp\\RedditEngineApp.csproj",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\RedditEngineApp.csproj",
+              "RelativeToolTip": "..\\RedditEngineApp\\RedditEngineApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T21:20:45.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\App.xaml",
+              "RelativeDocumentMoniker": "..\\RedditEngineApp\\App.xaml",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineApp\\App.xaml",
+              "RelativeToolTip": "..\\RedditEngineApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T21:20:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\Reddit.Library\\SearchFunctions\\Search.cs",
+              "RelativeDocumentMoniker": "..\\Reddit.Library\\SearchFunctions\\Search.cs",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\Reddit.Library\\SearchFunctions\\Search.cs",
+              "RelativeToolTip": "..\\Reddit.Library\\SearchFunctions\\Search.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:18.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:50:05.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:50:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:51:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T20:50:46.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:50:41.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:50:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:49:51.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:49:35.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:49:30.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "favicon.png",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\favicon.png",
+              "RelativeToolTip": "wwwroot\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-16T20:49:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\43763\\OneDrive\\Desktop\\RedditEngine\\RedditEngineWebApp\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-16T20:49:19.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

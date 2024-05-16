@@ -1,0 +1,21 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Welcome To Reddit Engine</h1>
+
+<input type="text" @bind="searchQuery" />
+<button @onclick="Search">Search</button>
+
+<h1>@searchResults</h1>
+
+@code {
+    public string searchQuery { get; set; }
+    public string searchResults { get; set; }
+
+    public void Search()
+    {
+        Console.WriteLine(searchQuery);
+        searchResults = Reddit.Library.SearchFunctions.Search.SearchQuery(searchQuery);
+    }
+}
